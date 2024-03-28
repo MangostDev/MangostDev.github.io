@@ -17,3 +17,7 @@ body {
     background-color: aquamarine;
     word-wrap: break-word;
 }
+
+li {
+    margin: 2px;
+}
