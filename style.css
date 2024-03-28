@@ -12,3 +12,8 @@ h1 {
     font-size: 30px;
     font-family: "helvetica";
 }
+
+body {
+    text-align: center;
+    background-color: aquamarine;
+}
