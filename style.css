@@ -1,0 +1,14 @@
+h1 {
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+
+.element {
+    font-size: 24px;
+    font-family: "helvetica";
+}
+
+#single {
+    font-size: 30px;
+    font-family: "helvetica";
+}
