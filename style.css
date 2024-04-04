@@ -51,11 +51,11 @@ li {
 }
 
 .container {
-    margin: auto;
     width: 100%;
+    margin: auto;
 }
 
-p {
-    width: 50%;
-    text-wrap: wrap;
+.top {
+    display: flex;
+    justify-content: space-around;
 }
