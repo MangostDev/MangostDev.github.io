@@ -21,3 +21,10 @@ body {
 li {
     margin: 2px;
 }
+
+#div1 {
+    width: 45%;
+    background-color: lightblue;
+    border-color: darkblue;
+    border-width: 1%;
+}
