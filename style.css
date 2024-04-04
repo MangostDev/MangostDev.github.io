@@ -28,6 +28,8 @@ li {
     margin: 10px;
     background-color: lightblue;
     border-color: darkblue;
+    border-top-width: 0px;
+    border-left-width: 0px;
     border-right-width: 5px;
     border-bottom-width: 5px;   
     border-style: solid; 
@@ -40,6 +42,8 @@ li {
     margin: 10px;
     background-color: lightblue;
     border-color: darkblue;
+    border-top-width: 0px;
+    border-left-width: 0px;
     border-right-width: 5px;
     border-bottom-width: 5px;
     border-style: solid;
