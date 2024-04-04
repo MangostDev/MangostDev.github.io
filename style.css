@@ -26,7 +26,8 @@ li {
     width: 45%;
     background-color: lightblue;
     border-color: darkblue;
-    border-width: 1%;
+    border-right-width: 5%;
+    border-bottom-width: 5%;    
     float: left;
 }
 
@@ -34,7 +35,9 @@ li {
     width: 45%;
     background-color: lightblue;
     border-color: darkblue;
-    border-width: 1%;
+    border-right-width: 5%;
+    border-bottom-width: 5%;
+    border-style: ;
     float: right;
 }
 
