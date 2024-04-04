@@ -54,3 +54,8 @@ li {
     margin: auto;
     width: 100%;
 }
+
+p {
+    width: 50%;
+    text-wrap: wrap;
+}
