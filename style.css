@@ -28,3 +28,8 @@ li {
     border-color: darkblue;
     border-width: 1%;
 }
+
+.container {
+    margin: auto;
+    width: 100%;
+}
