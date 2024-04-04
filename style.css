@@ -27,6 +27,15 @@ li {
     background-color: lightblue;
     border-color: darkblue;
     border-width: 1%;
+    float: left;
+}
+
+.div1 {
+    width: 45%;
+    background-color: lightblue;
+    border-color: darkblue;
+    border-width: 1%;
+    float: right;
 }
 
 .container {
