@@ -14,7 +14,6 @@ h1 {
 }
 
 body {
-    background-color: aquamarine;
     word-wrap: break-word;
 }
 
@@ -80,6 +79,6 @@ li {
   }
   
   .topnav a.active {
-    background-color: #04AA6D;
+    background-color: gray;
     color: white;
   }
