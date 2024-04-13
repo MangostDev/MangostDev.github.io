@@ -84,6 +84,7 @@ li {
   }
 
   #mango {
-    font-size: 30%;
+    font-size: 30px;
+    word-wrap: break-word;
     text-align: center;
   }
