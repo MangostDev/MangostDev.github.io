@@ -85,6 +85,7 @@ li {
 
   #mango {
     font-size: 80vw;
+    size: 80vw;
     background-image: url(IMG_7065.png);
     background-size: cover;
     background-clip: text;
