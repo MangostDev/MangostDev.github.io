@@ -82,3 +82,12 @@ li {
     background-color: gray;
     color: white;
   }
+
+  #mango {
+    font-size: 30px;
+    background-image: url(IMG_7065.png);
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+  }
