@@ -84,10 +84,10 @@ li {
   }
 
   #mango {
-    font-size: 30px;
+    font-size: 30vw;
     background-image: url(IMG_7065.png);
     background-size: cover;
     background-clip: text;
-    -webkit-background-clip: text;
+    --webkit--background-clip: text;
     color: transparent;
   }
